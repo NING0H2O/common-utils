@@ -10,6 +10,7 @@
     <modules>
         <module>ratelimiter</module>
         <module>utils-test</module>
+        <module>common-validate</module>
     </modules>
 
     <packaging>pom</packaging>
